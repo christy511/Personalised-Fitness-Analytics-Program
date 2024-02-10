@@ -1,6 +1,11 @@
 # Customised-Fitness-Regimen
-
 The Personalised Workout Program is a Python-based application designed to generate tailored fitness plans based on user input, including age, sex, and fitness goals.
+
+### Discovering Solutions
+This project was developed to tackle several challenges in the domain of personal fitness and wellness:
+- **Accessibility and Ease of Use:** Providing an easy-to-use interface for users to input their data and receive personalized workout plans, making structured exercise more accessible.
+- **Promoting Consistent Physical Activity:** Encouraging regular exercise through engaging and varied workout plans, supporting users in maintaining a healthy and active lifestyle.
+
 
 ## How it's Made
 The application employs:
