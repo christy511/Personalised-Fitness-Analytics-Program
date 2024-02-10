@@ -9,11 +9,6 @@ The Workout Program integrates several computational techniques and methodologie
 - **Data-Driven Decision Making:** Employs a data-centric approach to tailor workout recommendations, ensuring they are scientifically sound and aligned with modern fitness standards.
 - **Dynamic Workout Generation:** Generates workouts dynamically, offering a wide variety of exercises to meet diverse fitness goals, from weight loss to muscle building.
 
-## Testing Framework
-A comprehensive testing framework was developed to ensure the reliability and user-centric performance of the program. This includes:
-- Function-level unit tests to validate the logic of workout adjustments based on user inputs.
-- Integration tests to assess the seamless operation of input handling, algorithmic customization, and workout generation components together.
-
 ## Optimizations
 Throughout its development, the program was refined for efficiency and scalability, including:
 - The application of mathematical models to accurately scale workout intensities.
@@ -42,5 +37,5 @@ Here are a few more projects from my portfolio that showcase my technical skills
 
 - [Abalone Age Prediction Conservation Model](https://github.com/christy511/AbaloneAgePrediction-ConservationModels):
 A model to predict the age of abalone through machine learning.
-- [Moderator Program](https://github.com/christy511/Moderator-Program)
+- [Moderator Program + Test Framework](https://github.com/christy511/ModeratorProgram-TestFramework)
 A chat forum moderation program and a separate testing program designed to evaluate the performance of the moderation program.
