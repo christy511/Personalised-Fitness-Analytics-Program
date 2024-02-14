@@ -34,7 +34,7 @@ Future updates could include more advanced features such as:
 
 ## Examples
 Here are a few more projects from my portfolio:
--[Marine Predictive Modelling](https://github.com/christy511/Marine-Predictive-Modelling)
-A model to predict the age of abalone through machine learning.
+- [Marine Predictive Modelling](https://github.com/christy511/Marine-Predictive-Modelling)
+A model to predict the age of abalone through supervised machine learning.
 - [Moderator Program + Test Framework](https://github.com/christy511/ModeratorProgram-TestFramework)
 A chat forum moderation program and a separate testing program designed to evaluate the performance of the moderation program.
